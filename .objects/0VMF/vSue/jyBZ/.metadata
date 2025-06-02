@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chat  Luis Ramos  Microsoft Teams",
+  "Type": "Screen",
+  "Id": "jyBZ-fzbFUqJFs-pameiDg",
+  "Reference": "KIgKFTT2R0eKUzjlb9R5Zg/jyBZ-fzbFUqJFs-pameiDg",
+  "ParentRef": "KIgKFTT2R0eKUzjlb9R5Zg/vSueWht95k-N_pZMHFYKJg",
+  "Created": "2025-06-02T23:20:27.5876495Z",
+  "Updated": "2025-06-02T23:20:27.5876495Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

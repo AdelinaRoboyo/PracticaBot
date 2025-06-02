@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k2HVq1zBkkiYx7Jl8oFPLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ff13f43a-73cd-48f1-ba95-dc63ce3d65c3" CvElementArea="501, 19, 931, 53" CvType="InputBox" DesignTimeRectangle="501, 19, 931, 53" ElementType="InputBox" Guid="f794acaf-f309-4619-bab3-e313129ebadb" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Luis Ramos | Microsoft Teams' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ff13f43a-73cd-48f1-ba95-dc63ce3d65c3" CvElementArea="501, 19, 931, 53" CvType="InputBox" DesignTimeRectangle="581, 22, 852, 48" ElementType="DropDown" FullSelectorArgument="&lt;wnd aaname='Chat | Luis Ramos | Microsoft Teams - Web content - Profile 2' cls='Chrome_WidgetWin_1' title='Chat | Luis Ramos | Microsoft Teams' /&gt;&lt;ctrl name='Chat | Luis Ramos | Microsoft Teams' role='document' /&gt;&lt;ctrl name='Search (Ctrl+E)' role='combo box' /&gt;" Guid="0a56115e-db02-4c0e-b459-a08bfdd6e877" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="25e814421609e0f3f6e149849aa4483c.png" xmlns="">0dOClN6n880Gzw4QAWkjFXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
