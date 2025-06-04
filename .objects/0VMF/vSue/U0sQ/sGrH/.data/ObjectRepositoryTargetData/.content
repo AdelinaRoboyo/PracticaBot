@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IlzJxvb7SEeSoW4rEtdBcg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="52d0b97e-cbc2-4d5b-bd04-98d299a4d466" CvElementArea="584, 13, 757, 35" CvType="InputBox" DesignTimeRectangle="8, 8, 1920, 48" FuzzySelectorArgument="&lt;wnd cls='Chrome_WidgetWin_1' title='Chat | Monitoring CNB | Microsoft Teams' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Chat | Monitoring CNB | Microsoft Teams' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="0000887e-90d1-4fef-8827-d4be6aaa76af" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Monitoring CNB | Microsoft Teams' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 8, 1920, 47" FullSelectorArgument="&lt;wnd cls='TeamsOverlay' /&gt;" Guid="b4b99a51-2e7e-4d31-98ae-02cf8964700d" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="411d75708fc743a1ef7ac5ae93032fd0.png" xmlns="">0Or7B6lrtfU-OPtBroCX6yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
