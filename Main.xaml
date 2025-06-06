@@ -128,7 +128,7 @@
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <uix:NApplicationCard AttachMode="ByInstance" DisplayName="explorer.exe" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,572" sap2010:WorkflowViewState.IdRef="NApplicationCard_8" ScopeGuid="4789cf3b-e3dd-4c66-b7f2-feb33ce64361" Version="V2">
+                <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Open teams" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,572" sap2010:WorkflowViewState.IdRef="NApplicationCard_8" ScopeGuid="4789cf3b-e3dd-4c66-b7f2-feb33ce64361" Version="V2">
                   <uix:NApplicationCard.Body>
                     <ActivityAction x:TypeArguments="x:Object">
                       <ActivityAction.Argument>
@@ -140,7 +140,7 @@
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'TeamsOverlay'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,218" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="4789cf3b-e3dd-4c66-b7f2-feb33ce64361" Version="V4">
+                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click | Teams Overlay" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,218" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="4789cf3b-e3dd-4c66-b7f2-feb33ce64361" Version="V4">
                           <uix:NClick.Target>
                             <uix:TargetAnchorable CVScreenId="7ee221c1-27b8-4266-8487-016a37204d5f" ContentHash="YDRZMoMHs0efQ_Rj1sdMVw" CvElementArea="585, 13, 758, 36" CvType="InputBox" DesignTimeRectangle="584, 13, 758, 36" ElementType="InputBox" Guid="1b21462e-25ed-4a2d-9bcb-eafe35152f22" InformativeScreenshot="201df79e17458d46d70dabe54550e6c0.png" Reference="KIgKFTT2R0eKUzjlb9R5Zg/sGrHmc2iuUyPrltLLlFsjg" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Adelina Mancilla (You) | Microsoft Teams' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
                               <uix:TargetAnchorable.Anchors>
