@@ -97,7 +97,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="SequenceBetter" sap:VirtualizedContainerService.HintSize="1260,2639" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="SequenceBetter" sap:VirtualizedContainerService.HintSize="1260,2812" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -111,9 +111,9 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:LogMessage>
-    <ui:InterruptibleWhile CurrentIndex="{x:Null}" DisplayName="While" sap:VirtualizedContainerService.HintSize="554,2389" sap2010:WorkflowViewState.IdRef="InterruptibleWhile_1">
+    <ui:InterruptibleWhile CurrentIndex="{x:Null}" DisplayName="While" sap:VirtualizedContainerService.HintSize="554,2562" sap2010:WorkflowViewState.IdRef="InterruptibleWhile_1">
       <ui:InterruptibleWhile.Body>
-        <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="552,2259" sap2010:WorkflowViewState.IdRef="Sequence_2">
+        <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="552,2432" sap2010:WorkflowViewState.IdRef="Sequence_2">
           <Sequence.Variables>
             <Variable x:TypeArguments="sco:Collection(sd:Process)" Name="OutList" />
             <Variable x:TypeArguments="x:Boolean" Name="chromeflag" />
@@ -177,6 +177,14 @@
             </sap:WorkflowViewStateService.ViewState>
           </ui:LogMessage>
           <ui:GetProcesses ContinueOnError="{x:Null}" DisplayName="Get Processes" sap:VirtualizedContainerService.HintSize="518,57" sap2010:WorkflowViewState.IdRef="GetProcesses_1" Processes="[OutList]" />
+          <ui:LogMessage DisplayName="Log Message | Done teams activity" sap:VirtualizedContainerService.HintSize="518,173" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;&quot;]">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </ui:LogMessage>
           <Assign sap:VirtualizedContainerService.HintSize="518,114" sap2010:WorkflowViewState.IdRef="Assign_1">
             <Assign.To>
               <OutArgument x:TypeArguments="x:Boolean">[chromeflag]</OutArgument>
