@@ -1,0 +1,13 @@
+﻿{
+  "Name": "grouping",
+  "Type": "Element",
+  "Id": "y4PVlL5W1kasN0uGfbk1_g",
+  "Reference": "KIgKFTT2R0eKUzjlb9R5Zg/y4PVlL5W1kasN0uGfbk1_g",
+  "ParentRef": "KIgKFTT2R0eKUzjlb9R5Zg/gyZJ-jM0NUujSVzUDwki6A",
+  "Created": "2025-06-06T19:21:50.0615141Z",
+  "Updated": "2025-06-06T19:21:50.0615141Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
