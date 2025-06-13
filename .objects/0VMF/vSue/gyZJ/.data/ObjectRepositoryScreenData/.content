@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="RqI6VxOqz0unQl-7WvdHlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" FilePath="MSTeams_8wekyb3d8bbwe!MSTeams" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF5SURBVFhH7ZY9SgRBEIXnCHMEj7AXENxAUEQY0EQwEDHRXFxQdMBwb2BgZmDkBRYm0cBANjZxExHEYI/Q1ltqesua1u75C4R+8MHMVE+91z/LThL1b3V+/ZURM8IwuM643K9gJIw1/YcgEzlzzYyHJdnec0oUhGFwnXK5mcggVYYVeCgCSHMbgsvNRAZ1AmjzkhUe0kxkEroFLnMb8Ie2diZTwtRhd//JFcAeQjIL3wKXQQib2+PSuPIzJLPwQyibji5fzN3926+gXo7l19tLBoDJX0K9HLs6PJXLbxnln3LZNfacWMkAh8ePi1mCm9vXhemk+LDPUPcFAA5jC9suJQNIYAjJWUtigBggBug9gA8EOLt6rxtgzrZLUbPaf0Yb2UPTAAdsGy4YaYbrF+bopHCaAzKaKmPcr3HLeqKGc23gobrMbUQNc2XgI+dXuxE1xKdY6Crg26Ddx6dL1HRA+EKgPuBXuhc1x0pgO3QQ3ON59zOP6k9J8g1E+EwSUp3QygAAAABJRU5ErkJggg==" Selector="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | One Gas Monitoring | Microsoft Teams' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="19d4cf9e3decae0f7ad6778f40c63b2e.png" xmlns="">0WGq7FathuEGWFA10eH7YiA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

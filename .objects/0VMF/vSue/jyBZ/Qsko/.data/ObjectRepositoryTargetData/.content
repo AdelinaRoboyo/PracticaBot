@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RnVclZ0pjkKZ1ZLRnlSJfQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="90c5fb0c-939e-4691-a375-46b83439efbd" CvTextArea="591, 34, 391, 20" CvTextArgument="Look for people, messages, files, and more" CvType="Text" DesignTimeRectangle="591, 34, 391, 25" FuzzySelectorArgument="&lt;wnd aaname='Chat | Microsoft Teams - Web content - Profile 2' cls='Chrome_WidgetWin_1' title='Chat | Microsoft Teams' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Chat | Microsoft Teams' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='Messages Files Group Chats Teams and Channels People Fernando Lozano Jesus Espinosa Maya Ontiveros Erick Cuevas Ceballos Mauricio Villanueva Recent searches General STUFF (todo se vale) David Angel, Erick, Erick, +9 .loop monitoring 8 suggestions available for , 5 in People, 3 in Recent searches' /&gt;" Guid="2cb33650-f072-4dd2-b7dd-e4b178753517" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Microsoft Teams' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="90c5fb0c-939e-4691-a375-46b83439efbd" DesignTimeRectangle="503, 20, 928, 48" FuzzySelectorArgument="&lt;wnd aaname='Chat | Microsoft Teams - Web content - Profile 2' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' cls='Chrome_WidgetWin_1' title='Chat | Microsoft Teams' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Chat | Microsoft Teams' matching:name='fuzzy' fuzzylevel:name='0.0' role='document' /&gt;&lt;ctrl automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' role='grouping' /&gt;" Guid="ad976c59-da8e-463f-9bfb-c51394d9c6ab" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

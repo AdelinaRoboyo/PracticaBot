@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (57) Roboyo",
+  "Type": "Screen",
+  "Id": "LBGWQYhMpEyYmPjJ1BvGoA",
+  "Reference": "KIgKFTT2R0eKUzjlb9R5Zg/LBGWQYhMpEyYmPjJ1BvGoA",
+  "ParentRef": "KIgKFTT2R0eKUzjlb9R5Zg/BNnX7zZSLkSa_-clloS2Ew",
+  "Created": "2025-06-03T23:02:10.1579523Z",
+  "Updated": "2025-06-03T23:02:10.1579523Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

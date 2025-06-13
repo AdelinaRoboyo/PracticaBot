@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lDpSTM4JFU6AOluuno-WYQ" Reference="KIgKFTT2R0eKUzjlb9R5Zg/Uqc4fFoZJkucBfAhUgGPyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f2439573-ceb0-4545-b5f4-16ac774b3677" CvElementArea="584, 13, 758, 36" CvType="InputBox" DesignTimeRectangle="584, 13, 758, 36" ElementType="InputBox" Guid="6dbc5814-924c-415a-aafe-a6367c353ead" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' title='*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 8, 1920, 47" FullSelectorArgument="&lt;wnd cls='TeamsOverlay' /&gt;" Guid="fbfb9fc5-667a-4651-9c12-e6b7022a222c" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cd8732668b4f56d284bf0ddf1cd67e17.png" xmlns="">0HHdF9jZcjEiqnTmITp29HQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

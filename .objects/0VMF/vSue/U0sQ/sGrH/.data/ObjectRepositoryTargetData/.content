@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YDRZMoMHs0efQ_Rj1sdMVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7ee221c1-27b8-4266-8487-016a37204d5f" CvElementArea="585, 13, 758, 36" CvType="InputBox" DesignTimeRectangle="584, 13, 758, 36" ElementType="InputBox" Guid="1b21462e-25ed-4a2d-9bcb-eafe35152f22" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Adelina Mancilla (You) | Microsoft Teams' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 8, 1920, 47" FullSelectorArgument="&lt;wnd cls='TeamsOverlay' /&gt;" Guid="5f5d9338-09fc-4129-be23-cce238ab66e7" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="201df79e17458d46d70dabe54550e6c0.png" xmlns="">07zUi0YoCfESXdTI6Yr-1bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a8eTW3mBO0OMyfOB5JTPqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="920ed2b4-0f5e-472a-a2b5-6e60f02a02ae" CvElementArea="585, 13, 757, 36" CvType="InputBox" DesignTimeRectangle="590, 15, 753, 33" FuzzySelectorArgument="&lt;wnd cls='Chrome_WidgetWin_1' title='Chat | One Gas Monitoring | Microsoft Teams' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Chat | One Gas Monitoring | Microsoft Teams' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="910741f6-3c90-470d-9533-ba1cfa89c7f3" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | One Gas Monitoring | Microsoft Teams' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6b8285a39bd05a9860d0a65639621257.png" xmlns="">0Z0InhJWVH0O8cBYQiU9WDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
